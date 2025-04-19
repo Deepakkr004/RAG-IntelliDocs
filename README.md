@@ -2,6 +2,18 @@
 
 **RAG-IntelliDocs** is a cutting-edge, intelligent document analysis tool that leverages Retriever-Augmented Generation (RAG) technology for generating context-driven answers from your PDFs. Using advanced machine learning models (LLaMA, Chroma, and LlamaParse), this tool can analyze any uploaded PDF and provide insightful answers based on the document’s content.
 
+
+## Colab Link
+
+To run this project in Google Colab, click the link below and get started quickly with the notebook version of **RAG-IntelliDocs**:
+
+🔗 [**Launch in Google Colab**](https://colab.research.google.com/drive/1Thkv5E4iYrnpbxZ6Mw0-wuMIhWp6Kw55?usp=sharing)
+
+> ⚠️ **Note:** To use the LlamaIndex API, sign in and generate your API key at:
+
+🔑 [**LlamaIndex Cloud Portal**](https://cloud.llamaindex.ai/login)
+
+
 ## Features
 
 - **Contextual Querying:** Ask specific questions about your documents and receive precise answers derived from the text.
@@ -57,12 +69,6 @@ To run the application locally, follow these steps:
 - **LlamaParse:** A tool for parsing PDFs, converting them into a structured format suitable for question answering.
 
 When you upload a PDF, the tool first extracts text from it. The extracted text is then embedded into vector space using Chroma. When you ask a question, the system retrieves the most relevant chunks and uses LLaMA to generate an accurate, context-driven response.
-
-## Colab Link
-
-To run this project in Google Colab, click the link below and get started quickly with the notebook version of **RAG-IntelliDocs**:
-
-[**Launch in Google Colab**](https://colab.research.google.com/drive/1Thkv5E4iYrnpbxZ6Mw0-wuMIhWp6Kw55?usp=sharing)
 
 ## Contributing
 
