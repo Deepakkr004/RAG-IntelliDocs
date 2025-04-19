@@ -62,7 +62,7 @@ When you upload a PDF, the tool first extracts text from it. The extracted text 
 
 To run this project in Google Colab, click the link below and get started quickly with the notebook version of **RAG-IntelliDocs**:
 
-[**Launch in Google Colab**]([https://colab.research.google.com/your-notebook-link](https://colab.research.google.com/drive/1Thkv5E4iYrnpbxZ6Mw0-wuMIhWp6Kw55?usp=sharing))
+[**Launch in Google Colab**](https://colab.research.google.com/drive/1Thkv5E4iYrnpbxZ6Mw0-wuMIhWp6Kw55?usp=sharing)
 
 ## Contributing
 
